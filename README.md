@@ -1,4 +1,4 @@
-# Module_6_Challenge
+# Data Visualization including aggregation, interactive visualizations, and geospatial analysis.
 This platform aims to offer one-click service for people to buy properties and then rent them. It utilizes data visualization superpowers, including aggregation, interactive visualizations, and geospatial analysis, to find properties in the San Francisco market that are viable investment opportunities.
 
 ---
